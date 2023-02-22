@@ -43,13 +43,13 @@ AI Sleep Apnea scoring tool has 3 sections:
 
   <img width="577" alt="image" src="https://user-images.githubusercontent.com/64926313/220575867-169cdf9f-0cd6-4d7a-8fb3-8d58cce36b57.png">
   
- *The above image shows the visualization of 4th row.
+ ######The above image shows the visualization of 4th row.
 <br>
 3) Prediction
 * This section allows users to upload the trained h5 model and predict whether the patient suffers from apnea or not. The apnea-hypopnea index (AHI) is the combined average number of apneas and hypopneas that occur per hour of sleep, and the average apneas per hour and the severity of apnea are given as results. Additionally, a heat map of the number of apneas in each hour is also provided.
- *Below showns the average AHI and the severity of apnea.
+ ######Below showns the average AHI and the severity of apnea.
   <img width="244" alt="image" src="https://user-images.githubusercontent.com/64926313/220576577-0cc0c499-7e53-4268-b697-043f26ee95f0.png">
-  *Heat map of severity of apnea in each hour is shown below :
+  ######Heat map of severity of apnea in each hour is shown below :
   <img width="547" alt="image" src="https://user-images.githubusercontent.com/64926313/220576984-ccabd23f-d710-4a25-a6f6-d1dc05d38c33.png">
   
 
