@@ -1,4 +1,5 @@
 # L3-apnea-AI
+
 A Sleep Apnea Prediction tool for hospitals that employs a 1D CNN on features extracted from ECG signals obtained from a single sensor to monitor sleep apnea disease at home. The tool utilizes data obtained from ecg signals, and is designed to accurately predict the likelihood of sleep apnea in patients. 
 This application predicts wheather the patient is suffering from Apnea or not. The application is divided into three sections: data exploration, data visualization, and prediction.
 
