@@ -1,5 +1,5 @@
-# L3-apnea-AI.github.io
-A Sleep Apnea Prediction tool for hospitals that employs a 1D CNN on features extracted from ECG signals obtained from a single sensor to monitor sleep apnea disease at home. The tool utilizes data obtained from Level 3 vital sign monitoring, and is designed to accurately predict the likelihood of sleep apnea in patients. 
+# L3-apnea-AI
+A Sleep Apnea Prediction tool for hospitals that employs a 1D CNN on features extracted from ECG signals obtained from a single sensor to monitor sleep apnea disease at home. The tool utilizes data obtained from ecg signals, and is designed to accurately predict the likelihood of sleep apnea in patients. 
 This application predicts wheather the patient is suffering from Apnea or not. The application is divided into three sections: data exploration, data visualization, and prediction.
 
 
@@ -17,7 +17,7 @@ This application predicts wheather the patient is suffering from Apnea or not. T
 
 
 ### Input to 1D CNN
-The raw files taken from Apnea-ECG Database PhysioNet consist of 70 records, divided into a learning set of 35 records (a01 through a20, b01 through b05, and c01 through c10), and a test set of 35 records (x01 through x35), all of which may be downloaded from the zip file apnea-ecg-database-1.0.0.zip in the below link.
+The raw files taken from Apnea-ECG Database PhysioNet (https://physionet.org/content/apnea-ecg/1.0.0/) consist of 70 records, divided into a learning set of 35 records (a01 through a20, b01 through b05, and c01 through c10), and a test set of 35 records (x01 through x35), all of which may be downloaded from the zip file apnea-ecg-database-1.0.0.zip in the below link.
 * https://drive.google.com/file/d/1C-4Lu7l4rNwHMGQLqnV0vYkkNeUGgL3T/view?usp=sharing
 
 
@@ -27,7 +27,7 @@ This zip file contains .dat, .apn, .hea, .qrs, and other files. From this data, 
 * Single file consisting of 35 patient records with annotations: https://drive.google.com/file/d/1vIn_bFy7RmMbuSFIkDttiPKK9ph8_MQu/view?usp=sharing
 * Trained 1D CNN model: https://drive.google.com/file/d/1shoCvp_k-M3-8fFh1MyuaQ0bU2GLp3Xp/view?usp=sharing
 ### Input to Streamlit
-Sequence of hourly measurements of ecg signals of a patient with single column consisting of one channel as in the following link: https://github.com/kxrtxkx/L3-apnea-AI/commit/bd0c23df45a919a0d42921f6ff63f43990d9ed06
+Sequence of hourly measurements of ecg signals of a patient with single column consisting of one channel.A sample is given in the following link : https://github.com/kxrtxkx/L3-apnea-AI/commit/bd0c23df45a919a0d42921f6ff63f43990d9ed06
 
 
 ### Usage
