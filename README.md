@@ -36,9 +36,12 @@ AI Sleep Apnea scoring tool has 3 sections:
 1) Data Exploration
  * Upload the file in AI sleep apnea tool. The nan values are filled using forward fill.
  The user is allowed to give a sampling rate in hertz, inorder to resample hourly data into minute-minute data.
+ 
 2) Data Visualization
 * Displays a visualisation of each row 
+
   <img width="577" alt="image" src="https://user-images.githubusercontent.com/64926313/220575867-169cdf9f-0cd6-4d7a-8fb3-8d58cce36b57.png">
+  
  *The above image shows the visualization of 4th row.
 
 3) Prediction
