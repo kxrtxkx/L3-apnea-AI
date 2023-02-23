@@ -34,7 +34,7 @@ Sequence of hourly measurements of ecg signals of a patient with single column c
 
 
 ### Usage
-To run the app, run `streamlit run app.py` in your terminal.
+To run the app, run  `streamlit run app.py`  in your terminal.
 AI Sleep Apnea scoring tool has 3 sections:
 1) Data Exploration
  * Upload the file in AI sleep apnea tool. The nan values are filled using forward fill.
