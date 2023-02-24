@@ -33,7 +33,7 @@ This zip file contains .dat, .apn, .hea, .qrs, and other files. From this data, 
 
 ### Input to Streamlit.
 Sequence of hourly measurements of ecg signals of a patient with single column consisting of one channel.A sample is given in the following link :
-- [a01_streamlit](https://github.com/kxrtxkx/L3-apnea-AI/blob/main/a01_streamlit.csv)
+- [a012_streamlit](https://github.com/kxrtxkx/L3-apnea-AI/blob/main/a01_streamlit.csv)
 
 
 ### Usage
@@ -58,10 +58,11 @@ AI Sleep Apnea scoring tool has 3 sections:
 **_Below shows the average AHI and the severity of apnea._**
  <br>
  <br>
-  <img width="244" alt="image" src="https://user-images.githubusercontent.com/64926313/220576577-0cc0c499-7e53-4268-b697-043f26ee95f0.png">
- <br>
+<img width="175" alt="image" src="https://user-images.githubusercontent.com/64926313/221108800-ffdfebb2-8125-490c-a403-52b50947dd08.png"> <br>
 **_Heatmap of severity of apnea in each hour is shown below :_**
 <br>
 <br>
+<img width="525" alt="image" src="https://user-images.githubusercontent.com/64926313/221108721-a0e3c393-6de9-4dd8-acdc-1d73b7f07dbb.png">
+
   
 
