@@ -33,7 +33,7 @@ This zip file contains .dat, .apn, .hea, .qrs, and other files. From this data, 
 
 ### Input to Streamlit.
 Sequence of hourly measurements of ecg signals of a patient with single column consisting of one channel.A sample is given in the following link :
-- [a012_streamlit](https://github.com/kxrtxkx/L3-apnea-AI/blob/main/a01_streamlit.csv)
+- [a012_streamlit](https://github.com/kxrtxkx/L3-apnea-AI/blob/main/a12_streamlit.csv)
 
 
 ### Usage
