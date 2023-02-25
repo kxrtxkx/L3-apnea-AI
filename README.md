@@ -62,7 +62,7 @@ AI Sleep Apnea scoring tool has 3 sections:
 **_Heatmap of severity of apnea in each hour is shown below:_**
 <br>
 <br>
-<img width="525" alt="image" src="https://user-images.githubusercontent.com/64926313/221108721-a0e3c393-6de9-4dd8-acdc-1d73b7f07dbb.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/64926313/221108721-a0e3c393-6de9-4dd8-acdc-1d73b7f07dbb.png">
 
   
 
